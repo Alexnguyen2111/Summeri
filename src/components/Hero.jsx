@@ -9,7 +9,7 @@ const Hero = () => {
       </nav>
       <h1 className='head_text'>
         Tóm tắt và dịch mọi bài viết với <br className='max-md:hidden' />
-        <span className='orange_gradient '>Sumeri</span>
+        <span className='orange_gradient '>Summeri</span>
       </h1>
       <h2 className='desc '>
         Với Summeri bạn có thể dịch mọi bài báo từ mọi ngôn ngữ ra Tiếng Việt 
